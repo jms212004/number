@@ -6,3 +6,4 @@
  */
 echo 'master';
 echo 'modification dans le fichier index.php';
+echo 'commit sur master via IDE';
