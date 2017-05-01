@@ -7,3 +7,5 @@
 echo 'master';
 echo 'modification dans le fichier index.php';
 echo 'commit sur master via IDE';
+
+echo 'creation d une brance de test';
